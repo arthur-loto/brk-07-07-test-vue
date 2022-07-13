@@ -1,0 +1,20 @@
+{
+  "name": "ds-brk-baraka-vue-implement",
+  "version": "0.1.0-alpha.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "core-js": "^3.8.3",
+    "ds-brk-test-baraka-vue-rollup": "^0.1.0-alpha.1",
+    "ds-brk-test-distlit1": "^0.2.0-alpha.0",
+    "test-tokens-npm-2": "^0.1.0-alpha.1",
+    "vue": "^3.2.13"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~5.0.0",
+    "@vue/cli-service": "~5.0.0"
+  }
+}
